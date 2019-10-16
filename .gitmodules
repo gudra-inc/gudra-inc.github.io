@@ -1,0 +1,3 @@
+[submodule "karaAgro"]
+	path = karaAgro
+	url = https://github.com/nytro04/karaAgro.git
